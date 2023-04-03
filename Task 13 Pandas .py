@@ -101,9 +101,3 @@ riz4[0][12] = 'Imran shoukat'
 print(riz4)
 
 riz4.columns = list("ABCDE")
-
-# in this command we delete 4th column from our data frame
-# riz4.drop(4,axis=1)
-# print(riz4)
-
-print(riz4.loc[[0, 0], [0, 0]])
