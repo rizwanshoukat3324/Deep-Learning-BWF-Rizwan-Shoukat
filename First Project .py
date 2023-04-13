@@ -136,4 +136,3 @@ hist_plot.set_ylabel('Frequency')
 hist_plot.set_title('Pasific histogram')
 # Show the plot
 plt.show()
-
